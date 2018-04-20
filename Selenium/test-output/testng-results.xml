@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[BeforeClass]]>
+    </line>
+    <line>
+      <![CDATA[BeforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[Third]]>
+    </line>
+    <line>
+      <![CDATA[AfterMethod]]>
+    </line>
+    <line>
+      <![CDATA[AfterClass]]>
+    </line>
+    <line>
+      <![CDATA[BeforeClass]]>
+    </line>
+    <line>
+      <![CDATA[BeforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[first]]>
+    </line>
+    <line>
+      <![CDATA[AfterMethod]]>
+    </line>
+    <line>
+      <![CDATA[BeforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[second]]>
+    </line>
+    <line>
+      <![CDATA[AfterMethod]]>
+    </line>
+    <line>
+      <![CDATA[AfterClass]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="74" started-at="2018-03-17T13:24:19Z" finished-at="2018-03-17T13:24:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="74" started-at="2018-03-17T13:24:19Z" finished-at="2018-03-17T13:24:19Z">
+      <class name="TestNG.program22">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNG.program22@52feb982]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-03-17T13:24:19Z" finished-at="2018-03-17T13:24:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNG.program22@52feb982]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-03-17T13:24:19Z" finished-at="2018-03-17T13:24:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:TestNG.program22@52feb982]" name="aftermethod" is-config="true" duration-ms="0" started-at="2018-03-17T13:24:19Z" finished-at="2018-03-17T13:24:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[AfterMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:TestNG.program22@52feb982]" name="beforeclass" is-config="true" duration-ms="0" started-at="2018-03-17T13:24:19Z" finished-at="2018-03-17T13:24:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="c()[pri:0, instance:TestNG.program22@52feb982]" name="c" duration-ms="0" started-at="2018-03-17T13:24:19Z" finished-at="2018-03-17T13:24:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[second]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method status="PASS" signature="b()[pri:0, instance:TestNG.program22@52feb982]" name="b" duration-ms="0" started-at="2018-03-17T13:24:19Z" finished-at="2018-03-17T13:24:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[first]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:TestNG.program22@52feb982]" name="afterclass" is-config="true" duration-ms="0" started-at="2018-03-17T13:24:19Z" finished-at="2018-03-17T13:24:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[AfterClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:TestNG.program22@52feb982]" name="aftermethod" is-config="true" duration-ms="0" started-at="2018-03-17T13:24:19Z" finished-at="2018-03-17T13:24:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[AfterMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- TestNG.program22 -->
+      <class name="TestNG.program23">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:TestNG.program23@34c4973]" name="beforeclass" is-config="true" duration-ms="16" started-at="2018-03-17T13:24:19Z" finished-at="2018-03-17T13:24:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNG.program23@34c4973]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-03-17T13:24:19Z" finished-at="2018-03-17T13:24:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[BeforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="d()[pri:0, instance:TestNG.program23@34c4973]" name="d" duration-ms="0" started-at="2018-03-17T13:24:19Z" finished-at="2018-03-17T13:24:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Third]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:TestNG.program23@34c4973]" name="afterclass" is-config="true" duration-ms="0" started-at="2018-03-17T13:24:19Z" finished-at="2018-03-17T13:24:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[AfterClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:TestNG.program23@34c4973]" name="aftermethod" is-config="true" duration-ms="0" started-at="2018-03-17T13:24:19Z" finished-at="2018-03-17T13:24:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[AfterMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- TestNG.program23 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
